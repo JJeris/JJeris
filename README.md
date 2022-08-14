@@ -10,7 +10,7 @@ I hope to soon add more and more projects, so as to expand my repo and my knowle
 
 Feel free to contact me here:
 
--johans.justs.eris@gmail.com
+- johans.justs.eris@gmail.com
 
 
 <!---
