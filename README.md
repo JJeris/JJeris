@@ -8,7 +8,8 @@ I’m particularly interested in blockchain technology and the ways that cryptoc
 
 I hope to soon add more and more projects, so as to expand my repo and my knowledge of IT.
 
-Feel free to contact me :D
+Feel free to contact me here:
+-johans.justs.eris@gmail.com
 
 
 <!---
