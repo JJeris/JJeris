@@ -1,4 +1,4 @@
-About me
+#About me
 
 My name is Johans, but friends call me JJ.
 
@@ -8,12 +8,12 @@ I’m particularly interested in blockchain technology and the ways that cryptoc
 
 I hope to soon add more and more projects, so as to expand my repo and my knowledge of IT.
 
-As of now i've finished these courses/bootcamps:
+##As of now i've finished these courses/bootcamps:
 
 - TestDevLabs *Introduction to Software Testing, JavaScript and Web Automation* (https://tdlschool.com/)
 
 
-Feel free to contact me here:
+##Feel free to contact me here:
 
 - johans.justs.eris@gmail.com
 
