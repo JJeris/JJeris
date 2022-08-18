@@ -11,6 +11,10 @@ I hope to soon add more and more projects, so as to expand my repo and my knowle
 As of now i've finished these courses/bootcamps:
 
 - TestDevLabs *Introduction to Software Testing, JavaScript and Web Automation* (https://tdlschool.com/)
+  Final grades:
+  - Software testing: 72%
+  - Programming in JavaScript: 86%
+  - Web automation with Nightwatch.js: 80%
 
 
 Feel free to contact me here:
