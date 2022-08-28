@@ -1,5 +1,3 @@
-About me
-
 My name is Johans, but friends call me JJ.
 
 I’m a student at University of Latvia Computer science faculty, where I study computer science.
