@@ -4,12 +4,9 @@ I’m a student at University of Latvia Computer science faculty, where I study 
 
 I'm currently employed at [PhysicalAddons](https://www.physicaladdons.com/psa/) as a software tester.
 
-I’m particularly interested in blockchain technology and the ways that cryptocurrencies work. I’ve spent some time learning specific programming languages and environments, such as Solidity, alongside other base programming languages, like C++, Python, JS and others.
-
-I hope to soon add more and more projects, so as to expand my repo and my knowledge of IT.
+Particularly interested in game development and racing and physics simulators.
 
 As of now I've finished these courses/bootcamps:
-
 - TestDevLabs *Introduction to Software Testing, JavaScript and Web Automation* [TDLschool](https://tdlschool.com/)
   
   Final grades:
@@ -19,7 +16,6 @@ As of now I've finished these courses/bootcamps:
 
 Projects, that i have finished:
 - A [website](https://jjeris.github.io/random-password-generator-website/), that generates a random password for you
-
 
 Feel free to contact me here:
 
