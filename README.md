@@ -4,7 +4,7 @@ I’m a student at University of Latvia Computer science faculty, where I study 
 
 I'm currently employed at [PhysicalAddons](https://www.physicaladdons.com/psa/) as a software tester.
 
-Particularly interested in game development and racing and physics simulators.
+I am particularly interested in game development. Specifically that of racing/driving and physics simulators.
 
 As of now I've finished these courses/bootcamps:
 - TestDevLabs *Introduction to Software Testing, JavaScript and Web Automation* [TDLschool](https://tdlschool.com/)
