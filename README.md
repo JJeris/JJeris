@@ -2,7 +2,7 @@ My name is Johans, but friends call me JJ.
 
 I’m a student at University of Latvia Computer science faculty, where I study computer science.
 
-I'm currently employed at [PhysicalAddons](https://www.physicaladdons.com/psa/) as a software tester.
+I'm currently employed at [PhysicalAddons](https://www.physicaladdons.com/psa/) as a ReactJS and Electron developer, Blender 3D addon programmer and software tester.
 
 I am particularly interested in game development. Specifically that of racing/driving and physics simulators.
 
