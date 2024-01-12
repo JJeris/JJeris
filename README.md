@@ -20,11 +20,11 @@ As of now I've finished or started these courses/bootcamps:
 # Personal projects:
 - A [website](https://jjeris.github.io/random-password-generator-website/), that generates a random password for you,
 - (WIP) A personal CV webpage, detailing my skills and other projects,
-- (WIP) An Open Source Text editor built using Tauri.
+- An Open Source [Text editor](https://github.com/JJeris/text-editor-tauri) built using Tauri.
 
 
 # Professional projects:
-- <...>, which is a desktop app made with Tauri and ReactJS, that manages Bleder versions and its user made addons. I performed all of the system level programming, alongside 90% of the middleware development, as well as the apps architecture design. You can download it for free here <...>.
+- BlenderBase, which is a desktop app made with Tauri and ReactJS, that manages Bleder versions and its addons. Developed all of the system level functionality, alongside 90% of the middleware, as well as the apps architecture design. You can download it for free here <TBA>.
 
 # Contact:
 - johans.justs.eris@gmail.com
