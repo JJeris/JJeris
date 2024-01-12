@@ -24,7 +24,7 @@ As of now I've finished or started these courses/bootcamps:
 
 
 # Professional projects:
-- BlenderBase, which is a desktop app made with Tauri and ReactJS, that manages Bleder versions and its addons. Developed all of the system level functionality, alongside 90% of the middleware, as well as the apps architecture design. You can download it for free here <TBA>.
+- BlenderBase, which is a desktop app made with Tauri and ReactJS, that manages Bleder versions and its addons. Developed all of the system level functionality, alongside 90% of the middleware, as well as the apps architecture design. You can download it for free here <..TBA..>.
 
 # Contact:
 - johans.justs.eris@gmail.com
