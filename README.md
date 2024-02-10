@@ -1,5 +1,5 @@
 # Hi, my name is Justs.
-I’m a student at the University of Latvia Computer science faculty, where I study software engineering. I'm currently employed at [PhysicalAddons](https://www.physicaladdons.com/psa/) as a Junior React and Tauri developer, JavaScript, Python and Rust programmer. I've had extensive experience in desktop app development, software testing and customer support.
+I’m a student at the University of Latvia Computer science faculty, enrolled in the Bachelor program. I'm currently employed at [PhysicalAddons](https://www.physicaladdons.com/psa/) as a Junior React and Tauri developer, JavaScript, Python and Rust programmer. I've had extensive experience in desktop app development, software testing and customer support.
 
 # Extracurricular:
 
@@ -12,7 +12,7 @@ I’m a student at the University of Latvia Computer science faculty, where I st
 
 - The Odin Project.
 
-  - *Foundations* Path and.
+  - *Foundations* Path.
 
 # Personal projects:
 - [random-password-generator-website](https://jjeris.github.io/random-password-generator-website/)
