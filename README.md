@@ -1,19 +1,6 @@
 # Hi, my name is Justs.
 I’m a student at the University of Latvia Computer science faculty, enrolled in the Bachelor program. I'm currently employed at [PhysicalAddons](https://www.physicaladdons.com/psa/) as a Junior React and Tauri developer, JavaScript, Python and Rust programmer. I've had extensive experience in cross-platform desktop app development, software testing and technical customer support.
 
-# Extracurricular:
-
-- TestDevLabs *Introduction to Software Testing, JavaScript and Web Automation* [TDLschool](https://tdlschool.com/)
-  
-  Final grades:
-  - Software testing: 72%
-  - Programming in JavaScript: 86%
-  - Web automation with Nightwatch.js: 80%
-
-- The Odin Project.
-
-  - *Foundations* Path.
-
 # Personal projects:
 - [random-password-generator-website](https://jjeris.github.io/random-password-generator-website/)
 
