@@ -5,7 +5,7 @@ I’m a student at the University of Latvia Computer science faculty, enrolled i
 - [Random password generator](https://jjeris.github.io/random-password-generator-website/)
 
 # Professional projects:
-- [Blenderbase](https://github.com/PhysicalAddons/blenderbase-public-repo)
+- [Blenderbase](https://github.com/PhysicalAddons/blenderbase-public-repo) founding/main Tauri, ReactJS, Rust, JavaScript, Python, Shell developer.
 
 # Contact:
 - johans.justs.eris@gmail.com
