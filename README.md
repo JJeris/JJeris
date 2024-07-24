@@ -5,10 +5,9 @@ I’m a 4th year student at the University of Latvia Computer science faculty, e
 - [Blenderbase](https://github.com/PhysicalAddons/blenderbase-public) founding developer
 
 # Personal projects:
+- [IPA-transliterator made with @Paddlebear](https://github.com/Paddlebear/valteh-ipa-translit)
 - [Random password generator](https://jjeris.github.io/random-password-generator-website/)
 - [Django Ecommerce example project](https://github.com/JJeris/django-ecommerce)
-- [IPA-transliterator made with @Paddlebear](https://github.com/Paddlebear/valteh-ipa-translit)
-- [Trading engine made in Rust](https://github.com/JJeris/algo-trading-rust)
 
 # Contact:
 - johans.justs.eris@gmail.com
