@@ -8,6 +8,7 @@ I was employed at [PhysicalAddons](https://www.physicaladdons.com/psa/) as a Jun
 
 # Personal projects:
 - [IPA-transliterator](https://github.com/Paddlebear/valteh-ipa-translit) made with @Paddlebear
+- [.NET + ReactJS example project](https://github.com/JJeris/dot-net-react-learning)
 - [Random password generator](https://jjeris.github.io/random-password-generator-website/)
 - [Django Ecommerce example project](https://github.com/JJeris/django-ecommerce)
 
