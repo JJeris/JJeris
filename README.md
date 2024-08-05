@@ -4,7 +4,7 @@ I’m a 4th year student at the University of Latvia Computer science faculty, e
 I was employed at [PhysicalAddons](https://www.physicaladdons.com/psa/) as a Junior Tauri, ReactJS developer, JavaScript, Python and Rust programmer. There I gained extensive experience in cross-platform (Windows, MacOS) desktop app development, software testing, code documentation writing and technical customer support. In the span of a year developed and released [Blenderbase](https://github.com/PhysicalAddons/blenderbase-public) - Blender 3D version, addon and .blend file manager.
 
 # Professional projects:
-- [Blenderbase](https://github.com/PhysicalAddons/blenderbase-public) founding Tauri and ReactJS developer
+- [Blenderbase](https://github.com/PhysicalAddons/blenderbase-public) founding Tauri and ReactJS developer (June 2023 - August 2024)
 
 # Personal projects:
 - [IPA-transliterator](https://github.com/Paddlebear/valteh-ipa-translit) made with @Paddlebear
