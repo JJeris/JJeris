@@ -9,7 +9,7 @@ I was employed at [PhysicalAddons](https://www.physicaladdons.com/psa/) as a Jun
 - [Blenderbase](https://github.com/PhysicalAddons/blenderbase-public) founding Tauri and ReactJS developer (June 2023 - August 2024)
 
 # Personal projects:
-- [IPA-transliterator](https://github.com/Paddlebear/valteh-ipa-translit) made with @Paddlebear
+- [IPA-transliterator](https://github.com/Paddlebear/valteh-ipa-translit) made with [@Paddlebear](https://github.com/Paddlebear)
 - [.NET + ReactJS example project](https://github.com/JJeris/dot-net-react-learning)
 - [Random password generator](https://jjeris.github.io/random-password-generator-website/)
 - [Django Ecommerce example project](https://github.com/JJeris/django-ecommerce)
